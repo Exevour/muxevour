@@ -1,16 +1,16 @@
-XVR Player
+Muxevour
 Copyright (c) 2026 Exevour. All rights reserved.
 
-XVR Player is free to download and use for personal use.
+Muxevour is free to download and use for personal use.
 
 Not allowed without written permission from Exevour:
-- copying, changing, decompiling or reverse-engineering XVR Player;
+- copying, changing, decompiling or reverse-engineering Muxevour;
 - redistributing or selling it;
 - using its code, or parts of it, in other software.
 
-XVR Player is provided "as is", without warranty of any kind. Exevour is not liable for any damage or loss arising from its use.
+Muxevour is provided "as is", without warranty of any kind. Exevour is not liable for any damage or loss arising from its use.
 
-Parts made by others keep their own licences, included with XVR Player:
+Parts made by others keep their own licences, included with Muxevour:
 - the Montserrat font, by Julieta Ulanovsky and the Montserrat Project Authors: SIL Open Font License 1.1 (https://openfontlicense.org);
 - the Monkey's Audio decoder (MACDll64.dll), copyright Matthew T. Ashland: 3-clause BSD licence (Codecs\MonkeysAudio-license.txt);
 - the WavPack decoder (wavpackdll.dll), copyright David Bryant: BSD licence (Codecs\WavPack-license.txt).
